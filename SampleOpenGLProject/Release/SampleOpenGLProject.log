@@ -1,0 +1,121 @@
+﻿  InitShader.cpp
+C:\Users\Bugra\Desktop\CubeProject - 2\SampleOpenGLProject\OpenGL\include\Angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\bugra\desktop\cubeproject - 2\sampleopenglproject\opengl\include\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bugra\desktop\cubeproject - 2\sampleopenglproject\opengl\include\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bugra\desktop\cubeproject - 2\sampleopenglproject\opengl\include\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bugra\desktop\cubeproject - 2\sampleopenglproject\opengl\include\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bugra\desktop\cubeproject - 2\sampleopenglproject\opengl\include\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bugra\desktop\cubeproject - 2\sampleopenglproject\opengl\include\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bugra\desktop\cubeproject - 2\sampleopenglproject\opengl\include\mat.h(742): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Source.cpp
+C:\Users\Bugra\Desktop\CubeProject - 2\SampleOpenGLProject\OpenGL\include\Angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\bugra\desktop\cubeproject - 2\sampleopenglproject\opengl\include\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bugra\desktop\cubeproject - 2\sampleopenglproject\opengl\include\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bugra\desktop\cubeproject - 2\sampleopenglproject\opengl\include\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bugra\desktop\cubeproject - 2\sampleopenglproject\opengl\include\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bugra\desktop\cubeproject - 2\sampleopenglproject\opengl\include\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bugra\desktop\cubeproject - 2\sampleopenglproject\opengl\include\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bugra\desktop\cubeproject - 2\sampleopenglproject\opengl\include\mat.h(742): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Bugra\Desktop\CubeProject - 2\SampleOpenGLProject\OpenGL\include\glui.h(868): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Source.cpp(21): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Source.cpp(23): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Source.cpp(32): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Source.cpp(34): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Source.cpp(74): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Source.cpp(75): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Source.cpp(76): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Source.cpp(77): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Source.cpp(78): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Source.cpp(79): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Source.cpp(80): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Source.cpp(81): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Source.cpp(86): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Source.cpp(87): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Source.cpp(88): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Source.cpp(89): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Source.cpp(90): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Source.cpp(91): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Source.cpp(92): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Source.cpp(93): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+glui32.lib(glui_spinner.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in InitShader.obj
+glui32.lib(glui_spinner.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in InitShader.obj
+glui32.lib(glui.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in InitShader.obj
+glui32.lib(glui.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in InitShader.obj
+glui32.lib(glui_add_controls.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in InitShader.obj
+glui32.lib(glui_add_controls.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in InitShader.obj
+glui32.lib(glui_string.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in InitShader.obj
+glui32.lib(glui_string.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in InitShader.obj
+glui32.lib(glui_node.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in InitShader.obj
+glui32.lib(glui_node.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in InitShader.obj
+glui32.lib(glui_bitmaps.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in InitShader.obj
+glui32.lib(glui_bitmaps.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in InitShader.obj
+glui32.lib(glui_control.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in InitShader.obj
+glui32.lib(glui_control.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in InitShader.obj
+glui32.lib(glui_edittext.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in InitShader.obj
+glui32.lib(glui_edittext.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in InitShader.obj
+glui32.lib(glui_window.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in InitShader.obj
+glui32.lib(glui_window.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in InitShader.obj
+glui32.lib(glui_panel.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in InitShader.obj
+glui32.lib(glui_panel.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in InitShader.obj
+glui32.lib(glui_button.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in InitShader.obj
+glui32.lib(glui_button.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in InitShader.obj
+glui32.lib(glui_checkbox.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in InitShader.obj
+glui32.lib(glui_checkbox.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in InitShader.obj
+glui32.lib(glui_column.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in InitShader.obj
+glui32.lib(glui_column.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in InitShader.obj
+glui32.lib(glui_rollout.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in InitShader.obj
+glui32.lib(glui_rollout.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in InitShader.obj
+glui32.lib(glui_radio.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in InitShader.obj
+glui32.lib(glui_radio.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in InitShader.obj
+glui32.lib(glui_separator.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in InitShader.obj
+glui32.lib(glui_separator.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in InitShader.obj
+glui32.lib(glui_statictext.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in InitShader.obj
+glui32.lib(glui_statictext.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in InitShader.obj
+glui32.lib(glui_listbox.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in InitShader.obj
+glui32.lib(glui_listbox.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in InitShader.obj
+glui32.lib(glui_rotation.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in InitShader.obj
+glui32.lib(glui_rotation.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in InitShader.obj
+glui32.lib(glui_translation.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in InitShader.obj
+glui32.lib(glui_translation.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in InitShader.obj
+glui32.lib(glui_mouse_iaction.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in InitShader.obj
+glui32.lib(glui_mouse_iaction.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in InitShader.obj
+glui32.lib(algebra3.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in InitShader.obj
+glui32.lib(algebra3.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in InitShader.obj
+glui32.lib(arcball.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in InitShader.obj
+glui32.lib(arcball.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in InitShader.obj
+glui32.lib(quaternion.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in InitShader.obj
+glui32.lib(quaternion.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in InitShader.obj
+MSVCRT.lib(initializers.obj) : warning LNK4098: defaultlib 'msvcrtd.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+glui32.lib(glui_statictext.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+glui32.lib(glui_listbox.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+glui32.lib(glui_rotation.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+glui32.lib(glui_translation.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+glui32.lib(glui_column.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+glui32.lib(glui_rollout.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+glui32.lib(glui_radio.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+glui32.lib(glui_separator.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+glui32.lib(glui_edittext.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+glui32.lib(glui_panel.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+glui32.lib(glui_button.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+glui32.lib(glui_checkbox.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+glui32.lib(glui_spinner.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+glui32.lib(glui.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+glui32.lib(glui_string.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+glui32.lib(glui_control.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+glui32.lib(glui_statictext.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+glui32.lib(glui_listbox.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+glui32.lib(glui_rotation.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+glui32.lib(glui_translation.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+glui32.lib(glui_column.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+glui32.lib(glui_rollout.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+glui32.lib(glui_radio.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+glui32.lib(glui_separator.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+glui32.lib(glui_edittext.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+glui32.lib(glui_panel.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+glui32.lib(glui_button.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+glui32.lib(glui_checkbox.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+glui32.lib(glui_spinner.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+glui32.lib(glui.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+glui32.lib(glui_string.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+glui32.lib(glui_control.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+C:\Users\Bugra\Desktop\CubeProject - 2\Release\SampleOpenGLProject.exe : fatal error LNK1120: 2 unresolved externals
